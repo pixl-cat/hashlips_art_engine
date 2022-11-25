@@ -2,83 +2,56 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d1223c6e-1d3b-49f0-afe5-f1b754217e1d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/layers/Background/Basketball#20.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layers/Background/Cafetaria#20.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layers/Background/Cell#40.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layers/Background/Corridor#40.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layers/Background/DryCell#10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layers/Background/InterrogationRoom#5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layers/Background/Terrestial#10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layers/Body/Ape.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layers/Eyes/Beam#1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layers/Eyes/Blindfold#2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layers/Eyes/Bloodshot#2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layers/Eyes/Bored#5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layers/Eyes/Coined#1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layers/Eyes/Cyborg#1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layers/Eyes/Eyepatch#1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layers/Eyes/Goggle#2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layers/Eyes/Holographic#1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layers/Eyes/Hypnotized#5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layers/Eyes/Laser#2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layers/Eyes/Scumbag#3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layers/Eyes/Sleepy#5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layers/Eyes/Sunglasses#5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layers/Eyes/Tired#5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layers/Eyes/Wide#3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layers/Eyes/X#1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layers/Mouth/Bored#10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layers/Mouth/BoredBubbleGum#3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layers/Mouth/BoredCigar#7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layers/Mouth/BoredCigarette#6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layers/Mouth/BoredDagger#3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layers/Mouth/BoredHarmonica#5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layers/Mouth/BoredNoseRing#5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layers/Mouth/BoredPartyHorn#5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layers/Mouth/BoredPizza#4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layers/Mouth/BoredUnshavenCigar#4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layers/Mouth/BoredUnshavenCigarette#4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layers/Mouth/BoredUnshavenDagger#2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layers/Mouth/BoredUnshavenHarmonica#4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layers/Mouth/BoredUnshavenPartyHorn#2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layers/Mouth/BoredUnshavenPipe#4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layers/Mouth/BoredUnshavenPizza#1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layers/Mouth/Discomfort#5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layers/Mouth/DumbFounded#6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layers/Mouth/Grin#5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layers/Mouth/Laugh#6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layers/Mouth/Phoneme-Hfff#3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layers/Mouth/Phoneme-L#5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layers/Mouth/Phoneme-Oh#8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layers/Mouth/Phoneme-Ooo#7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layers/Mouth/Phoneme-Surprised#2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layers/Mouth/Pierce#1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layers/Mouth/Rage#7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layers/Mouth/Small-Grin#2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layers/Mouth/Small-GrinUnshavedPipe#1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layers/Mouth/TongueOut#4.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/layers/Background/Black#1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/layers/Bottom lid/High#20.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/layers/Bottom lid/Low#40.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/layers/Bottom lid/Middle#40.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/layers/Eye color/Cyan#1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/layers/Eye color/Green#1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/layers/Eye color/Pink#1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/layers/Eye color/Purple#1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/layers/Eye color/Red#1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/layers/Eye color/Yellow#10.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/layers/Eyeball/Red#50.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/layers/Eyeball/White#50.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/layers/Goo/Green#1.png" beforeDir="false" afterPath="$PROJECT_DIR$/layers/Outfits/Green#1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/layers/Iris/Large#20.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/layers/Iris/Medium#20.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/layers/Iris/Small#60.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/layers/Shine/Shapes#100.png" beforeDir="false" afterPath="$PROJECT_DIR$/layers/Earrings/Shapes#100.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/layers/Top lid/High#30.png" beforeDir="false" afterPath="$PROJECT_DIR$/layers/Head/High#30.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/layers/Top lid/Low#20.png" beforeDir="false" afterPath="$PROJECT_DIR$/layers/Head/Low#20.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/layers/Top lid/Middle#50.png" beforeDir="false" afterPath="$PROJECT_DIR$/layers/Head/Middle#50.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layers/Earrings/Cross.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layers/Earrings/Diamond.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layers/Earrings/Double_Hoop.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layers/Earrings/Goat_Horn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layers/Earrings/Hoop.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layers/Earrings/Lightning.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layers/Earrings/Padlock.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layers/Earrings/Screw.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layers/Earrings/Star.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layers/Earrings/Stud.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layers/Earrings/Triangle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layers/Earrings/Zip.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layers/Outfits/AdmiralsCoat#1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layers/Outfits/Anarchist#5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layers/Outfits/Anchor_T-Shirt#5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layers/Outfits/Banana_Necklace#2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layers/Outfits/BellBoy#1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layers/Outfits/Biker_Vest#3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layers/Outfits/Black_Suit_With_Bowtie#4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layers/Outfits/Black_Suit_With_Tie#1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layers/Outfits/Bone_Necklace#2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layers/Outfits/Bones_T-Shirt#5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layers/Outfits/Caveman_Pelt#1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layers/Outfits/Guayabera#2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layers/Outfits/Hawaiian_Shirt#3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layers/Outfits/Kings_Robe#2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layers/Outfits/Lab#2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layers/Outfits/Leather_Jacket#5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layers/Outfits/Lumberjack#6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layers/Outfits/Naked#4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layers/Outfits/Pimp#1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layers/Outfits/Prisoner_Jumpsuit#12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layers/Outfits/Puffy_Vest#2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layers/Outfits/Sailor#5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layers/Outfits/Service#2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layers/Outfits/Sleeveless#4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layers/Outfits/Smoking_Jacket#2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layers/Outfits/Spacesuit#5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layers/Outfits/Streetwearz#7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layers/Outfits/Stripes#5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layers/Outfits/Stunt#1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layers/Outfits/Suspender#2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layers/Outfits/Tiger#2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layers/Outfits/Toga#1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layers/Outfits/Turtleneck#2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layers/Outfits/Tweed_Suit#2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layers/Outfits/Valet#3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layers/Outfits/Veteran#5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/layers/Outfits/Green#1.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,13 +74,14 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/GL-503G/Desktop/hashlips_art_engine/layers/Mouth",
+    "last_opened_file_path": "C:/Users/GL-503G/Desktop/hashlips_art_engine/layers/Earrings",
     "nodejs_package_manager_path": "yarn",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\GL-503G\Desktop\hashlips_art_engine\layers\Outfits" />
       <recent name="C:\Users\GL-503G\Desktop\hashlips_art_engine\layers\Mouth" />
       <recent name="C:\Users\GL-503G\Desktop\hashlips_art_engine\layers\Eyes" />
       <recent name="C:\Users\GL-503G\Desktop\hashlips_art_engine\layers\Body" />
@@ -123,7 +97,8 @@
       <option name="presentableId" value="Default" />
       <updated>1665974148766</updated>
       <workItem from="1665974150091" duration="94000" />
-      <workItem from="1669355560718" duration="3009000" />
+      <workItem from="1669355560718" duration="4706000" />
+      <workItem from="1669365238578" duration="302000" />
     </task>
     <servers />
   </component>
